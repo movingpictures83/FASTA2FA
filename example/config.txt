@@ -1,0 +1,2 @@
+Prefix plugins/FASTA2FA/example/
+Plugin FASTA2FA inputfile Notwotails_LR.fa outputfile LR.fa
